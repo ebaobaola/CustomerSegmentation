@@ -1,2 +1,2 @@
 # CustomerSegmentation
-How to use Gaussian Mixture Models with Expectation-Maximization to do customer segmentation
+How to construct Gaussian Mixture Models in Python and train the model with Expectation-Maximization algorithm to do customer segmentation
